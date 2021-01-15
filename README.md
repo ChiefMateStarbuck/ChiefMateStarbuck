@@ -1,7 +1,8 @@
-### Hi there 👋
-
 <!--
-**ChiefMateStarbuck/ChiefMateStarbuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contemplation of true evil, pure righteousness, and the myriad colors that reveal themselves between these two pillars is a subject for other beings endowed with greater patience for their own internal realities. This contemplation is for beings whose worlds had been cleansed by the aurora of capital, of which was earned in times more apt to sunny days on an island in the South Pacific. No. Our world, consummated by the vile wickedness of Zeus and so easily brushed off by beings gifted with this contemplation, our world is one of two ever switching frequencies: pure dread or unfathomable euphoria. 
+
+Pronouns: He/Him
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
